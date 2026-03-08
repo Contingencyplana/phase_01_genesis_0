@@ -2,7 +2,8 @@
 
 This folder contains the Interactive Fiction layer of the Kaleidoscope ecosystem.
 
-The Interactive Novel is the **first stage of the Kaleidoscope evolutionary path**.  
+The Interactive Novel is the **first stage of the Kaleidoscope evolutionary path**, belonging to **Layer 1 — Narrative Foundations**.
+
 It provides a shared narrative environment where players explore a growing world through story fragments and choices.
 
 The goal of this stage is to create **narrative gravity** — a world that people want to explore, discuss, and contribute to.
@@ -27,12 +28,16 @@ The Interactive Novel corresponds to **Stage 1 — Interactive Fiction** in the 
 
 Over time the world developed here may grow into:
 
-- a Grand Saga
-- an AI Safety narrative layer
-- Adventures in Gamengineering
-- a full Game World
-- a Creative Ecosystem
-- SHAGI
+- Stage 2 — Grand Saga  
+- Stage 3 — AI Safety Layer  
+- Stage 4 — Adventures in Gamengineering  
+- Stage 5 — Game World (Game Maker)  
+- Stage 6 — Creative Ecosystem  
+- Stage 7 — Cybertoys  
+- Stage 8 — Play as a Primary Mode of Participation  
+- Stage 9 — Employ Everyone  
+- Stage 10 — Cyberimagination  
+- Stage 11 — SHAGI  
 
 ---
 

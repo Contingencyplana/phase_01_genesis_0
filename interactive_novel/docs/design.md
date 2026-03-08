@@ -26,13 +26,13 @@ The early focus is **exploration and discovery**, not complex game mechanics.
 
 The Interactive Novel is built around a very simple interaction loop:
 
-
+```text
 read scene
 ↓
 choose action
 ↓
 move to next scene
-
+```
 
 This loop should remain simple and intuitive.
 
@@ -42,7 +42,7 @@ Future versions may expand this loop to include additional elements such as disc
 
 Example expanded loop:
 
-
+```text
 read scene
 ↓
 choose action
@@ -50,7 +50,7 @@ choose action
 discover clue
 ↓
 branch story
-
+```
 
 However, the first version should remain minimal.
 
@@ -62,23 +62,23 @@ Each scene represents a small moment within the world.
 
 Scenes should contain three basic components:
 
-
+```text
 scene text
 ↓
 choices
 ↓
 links to next scenes
-
+```
 
 Example conceptual structure:
 
-
+```text
 Scene
 Text
 Choices
 choice A → next scene
 choice B → next scene
-
+```
 
 Scenes should be short and focused.  
 They should present a situation and allow the player to decide what happens next.
@@ -108,11 +108,11 @@ Story threads are ongoing narrative paths that run through multiple scenes.
 
 Examples of early threads might include:
 
-
+```text
 The Visionary Mystery
 The Library Secrets
 The Forest Expedition
-
+```
 
 Scenes can belong to one or more threads.
 
@@ -190,3 +190,19 @@ Initial targets:
 This small starting point provides a narrative seed that can expand over time.
 
 Once the core structure works, new scenes, threads, and locations can be added gradually.
+
+---
+
+# Scene Identifiers
+
+Each scene in the interactive novel must have a unique identifier.
+
+Example identifiers:
+
+- scene_0001
+- scene_0002
+- scene_0003
+
+These identifiers allow the runtime engine to load scenes and resolve player choices.
+
+Scene identifiers will later be used by the scene loader and choice handler components of the interactive novel engine.
