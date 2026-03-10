@@ -57,6 +57,56 @@ These connections form the overall story network.
 
 ---
 
+# Graph Integrity Rules
+
+To keep the Kaleidoscope scene network stable as the story grows, the following basic rules should be followed.
+
+### No Broken Links
+
+Every scene reference must point to a valid scene identifier.
+
+Example:
+
+```
+- Visit the library → scene_0003
+```
+
+The referenced scene file must exist.
+
+---
+
+### All Scenes Must Be Reachable
+
+Every scene should be reachable from the starting scene (`scene_0001`) through one or more choices.
+
+Scenes that cannot be reached from the starting scene are considered **orphan scenes** and should normally be avoided.
+
+---
+
+### Avoid Unintentional Dead Ends
+
+Most scenes should provide at least one choice leading to another scene.
+
+Dead ends may be used intentionally for special narrative moments, but they should be rare.
+
+---
+
+### Stable Connections
+
+Scene links should remain stable once published.
+
+Changing scene identifiers or removing heavily referenced scenes can break the story graph.
+
+---
+
+### Gradual Expansion
+
+The scene graph should grow gradually.
+
+Writers should add small clusters of connected scenes rather than large isolated branches.
+
+---
+
 # Early Scene Network
 
 The first scenes of the Kaleidoscope story should remain very small.
