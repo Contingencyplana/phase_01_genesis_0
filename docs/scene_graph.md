@@ -33,7 +33,7 @@ In this example:
 
 ---
 
-### Nodes and Connections
+## Nodes and Connections
 
 In the Kaleidoscope system:
 
@@ -57,11 +57,11 @@ These connections form the overall story network.
 
 ---
 
-### Graph Integrity Rules
+## Graph Integrity Rules
 
 To keep the Kaleidoscope scene network stable as the story grows, the following basic rules should be followed.
 
-### No Broken Links
+## No Broken Links
 
 Every scene reference must point to a valid scene identifier.
 
@@ -75,7 +75,7 @@ The referenced scene file must exist.
 
 ---
 
-### All Scenes Must Be Reachable
+## All Scenes Must Be Reachable
 
 Every scene should be reachable from the starting scene (`scene_0001`) through one or more choices.
 
@@ -83,7 +83,7 @@ Scenes that cannot be reached from the starting scene are considered **orphan sc
 
 ---
 
-### Avoid Unintentional Dead Ends
+## Avoid Unintentional Dead Ends
 
 Most scenes should provide at least one choice leading to another scene.
 
@@ -91,7 +91,7 @@ Dead ends may be used intentionally for special narrative moments, but they shou
 
 ---
 
-### Stable Connections
+## Stable Connections
 
 Scene links should remain stable once published.
 
@@ -99,7 +99,7 @@ Changing scene identifiers or removing heavily referenced scenes can break the s
 
 ---
 
-### Gradual Expansion
+## Gradual Expansion
 
 The scene graph should grow gradually.
 
@@ -107,7 +107,7 @@ Writers should add small clusters of connected scenes rather than large isolated
 
 ---
 
-### Early Scene Network
+## Early Scene Network
 
 The first scenes of the Kaleidoscope story should remain very small.
 
@@ -125,7 +125,7 @@ Each of these scenes may then branch into additional discoveries.
 
 ---
 
-### Branching and Exploration
+## Branching and Exploration
 
 Branching allows players to explore the world in different ways.
 
@@ -145,7 +145,7 @@ Branching structures help the world feel alive and open.
 
 ---
 
-### Story Threads
+## Story Threads
 
 Scenes may belong to larger narrative threads.
 
@@ -163,7 +163,7 @@ Over time, these threads may intersect and reveal larger parts of the story.
 
 ---
 
-### Expanding the Scene Graph
+## Expanding the Scene Graph
 
 As the story grows, the scene graph will naturally expand.
 
@@ -180,7 +180,7 @@ The scene format defined in `scene_format.md` ensures that this growth remains m
 
 ---
 
-### Design Guidelines
+## Design Guidelines
 
 When expanding the scene graph, follow these principles.
 
@@ -202,7 +202,7 @@ Players should discover new parts of the world through exploration rather than e
 
 ---
 
-### Long-Term Growth
+## Long-Term Growth
 
 The Kaleidoscope scene graph should support gradual expansion of the world.
 
@@ -230,7 +230,7 @@ This simple structure allows the Kaleidoscope world to grow naturally without re
 
 ---
 
-### Design Philosophy
+## Design Philosophy
 
 The scene graph should remain:
 

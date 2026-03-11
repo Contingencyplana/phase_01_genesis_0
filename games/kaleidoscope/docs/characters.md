@@ -9,7 +9,7 @@ Early characters serve as guides, sources of mystery, and catalysts for explorat
 
 ---
 
-# Character Roles
+## Character Roles
 
 The early narrative benefits from a small number of clear character roles.
 
@@ -27,7 +27,7 @@ Not every role must appear immediately, but these archetypes help organize the e
 
 ---
 
-# The Visionary
+## The Visionary
 
 The Visionary is a mysterious figure associated with the larger ideas that shape the Kaleidoscope world.
 
@@ -48,7 +48,7 @@ Instead, their influence is felt through the world and its mysteries.
 
 ---
 
-# The Guide
+## The Guide
 
 The Guide is one of the first characters players may encounter.
 
@@ -70,7 +70,7 @@ The Guide helps players understand how to explore the world.
 
 ---
 
-# The Skeptic
+## The Skeptic
 
 The Skeptic questions the ideas associated with the Visionary.
 
@@ -86,7 +86,7 @@ The Skeptic introduces tension into the story and prevents the narrative from be
 
 ---
 
-# The Explorer
+## The Explorer
 
 The Explorer is fascinated by the unknown parts of the world.
 
@@ -100,7 +100,7 @@ Explorers encourage players to investigate new places and uncover hidden threads
 
 ---
 
-# The Keeper of Knowledge
+## The Keeper of Knowledge
 
 Some characters may act as guardians of important knowledge.
 
@@ -121,7 +121,7 @@ However, they may reveal this knowledge slowly or reluctantly.
 
 ---
 
-# Character Development
+## Character Development
 
 Characters should evolve gradually through the story.
 
@@ -136,7 +136,7 @@ Characters may change their beliefs or motivations over time.
 
 ---
 
-# Expanding the Cast
+## Expanding the Cast
 
 The initial version of the Interactive Novel should start with a very small cast.
 

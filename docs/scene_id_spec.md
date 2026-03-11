@@ -22,7 +22,7 @@ Because of this, scene IDs must remain **stable and predictable**.
 
 ---
 
-### Scene ID Format
+## Scene ID Format
 
 All scene identifiers must follow this format:
 
@@ -56,7 +56,7 @@ Four digits allow the system to support **up to 9,999 scenes** without changing 
 
 ---
 
-### Scene File Naming
+## Scene File Naming
 
 Each scene must be stored in a file named using its scene identifier.
 
@@ -84,17 +84,17 @@ scene_0001.md
 
 ---
 
-### Scene ID Rules
+## Scene ID Rules
 
 The following rules must always be followed.
 
-### Scene IDs are Unique
+## Scene IDs are Unique
 
 No two scenes may share the same scene identifier.
 
 ---
 
-### Scene IDs Are Permanent
+## Scene IDs Are Permanent
 
 Once assigned, a scene ID should **never be changed**.
 
@@ -102,7 +102,7 @@ Changing scene IDs would break links from other scenes.
 
 ---
 
-### Scene IDs Are Never Reused
+## Scene IDs Are Never Reused
 
 If a scene is removed from the project, its ID should **not be reused** for a new scene.
 
@@ -110,7 +110,7 @@ This prevents confusion in version history and external references.
 
 ---
 
-### Scene IDs Must Match Filenames
+## Scene IDs Must Match Filenames
 
 The identifier declared inside the file must match the filename.
 
@@ -128,7 +128,7 @@ scene_0001.md
 
 ---
 
-### Scene Linking
+## Scene Linking
 
 Scenes connect to one another using scene IDs.
 
@@ -144,7 +144,7 @@ The target scene must exist as a valid scene file.
 
 ---
 
-### Starting Scene
+## Starting Scene
 
 By convention, the Kaleidoscope story begins with:
 
@@ -156,7 +156,7 @@ This scene acts as the **default entry point** into the story world unless the e
 
 ---
 
-### Future Expansion
+## Future Expansion
 
 The current system assumes a single namespace for scene identifiers.
 
@@ -170,7 +170,7 @@ If that occurs, scene ID namespaces may be extended while maintaining compatibil
 
 ---
 
-### Design Philosophy
+## Design Philosophy
 
 Scene identifiers should remain:
 

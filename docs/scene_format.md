@@ -32,7 +32,7 @@ Rules:
 
 ---
 
-### Scene Structure
+## Scene Structure
 
 Every scene file follows the same basic structure:
 
@@ -63,7 +63,7 @@ Each section is described below.
 
 ---
 
-### Scene Header
+## Scene Header
 
 The first line identifies the scene.
 
@@ -83,7 +83,7 @@ scene_0001.md
 
 ---
 
-### Title
+## Title
 
 The title gives the scene a human-readable name.
 
@@ -98,7 +98,7 @@ Titles help writers and designers navigate the story structure.
 
 ---
 
-### Location
+## Location
 
 The location identifies where the scene takes place.
 
@@ -113,7 +113,7 @@ Locations help organize the world and may later be used by the engine for naviga
 
 ---
 
-### Scene Text
+## Scene Text
 
 The scene text contains the narrative description presented to the player.
 
@@ -136,7 +136,7 @@ Scenes should encourage the player to explore the world.
 
 ---
 
-### Choices
+## Choices
 
 The choices section defines the actions available to the player.
 
@@ -165,23 +165,25 @@ Choices represent meaningful actions such as:
 
 ---
 
-### Design Guidelines
+## Design Guidelines
+
+### Design Principles
 
 Scenes should follow several simple design principles.
 
-### Simplicity
+#### Simplicity
 
 Scenes should remain easy to read and write.
 
-### Exploration
+#### Exploration
 
 Scenes should encourage players to explore different paths.
 
-### Atmosphere
+#### Atmosphere
 
 Scene text should help establish the tone of the world.
 
-### Expansion
+#### Expansion
 
 The scene format should remain stable even as the story grows to include hundreds or thousands of scenes.
 
@@ -216,7 +218,7 @@ The harbor is already busy with sailors unloading cargo and merchants shouting a
 
 ---
 
-### Design Philosophy
+## Design Philosophy
 
 The scene format should remain:
 

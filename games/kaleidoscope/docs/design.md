@@ -7,7 +7,7 @@ The goal is to establish a simple structure that allows the story to grow organi
 
 ---
 
-# Purpose of the Interactive Novel
+## Purpose of the Interactive Novel
 
 The Interactive Novel is the **first stage of the Kaleidoscope evolutionary path**.
 
@@ -22,7 +22,7 @@ The early focus is **exploration and discovery**, not complex game mechanics.
 
 ---
 
-# Core Player Loop
+## Core Player Loop
 
 The Interactive Novel is built around a very simple interaction loop:
 
@@ -56,7 +56,7 @@ However, the first version should remain minimal.
 
 ---
 
-# Scene Structure
+## Scene Structure
 
 Each scene represents a small moment within the world.
 
@@ -85,7 +85,7 @@ They should present a situation and allow the player to decide what happens next
 
 ---
 
-# Choices
+## Choices
 
 Choices allow players to influence the direction of the story.
 
@@ -102,7 +102,7 @@ Choices should feel natural within the story rather than mechanical.
 
 ---
 
-# Story Threads
+## Story Threads
 
 Story threads are ongoing narrative paths that run through multiple scenes.
 
@@ -120,7 +120,7 @@ As players explore the world, different threads gradually intersect and reveal l
 
 ---
 
-# Player Exploration
+## Player Exploration
 
 Players should feel that they are **exploring a living world** rather than following a single fixed path.
 
@@ -137,7 +137,7 @@ Players should often encounter clues or mysteries that encourage them to continu
 
 ---
 
-# Growth of the World
+## Growth of the World
 
 The Kaleidoscope world should expand gradually.
 
@@ -154,7 +154,7 @@ The goal is to allow the world to evolve naturally as more content is added.
 
 ---
 
-# Design Principles
+## Design Principles
 
 The Interactive Novel should follow several guiding principles.
 
@@ -177,7 +177,7 @@ The structure should allow the story to grow without needing major redesigns.
 
 ---
 
-# Initial Scope
+## Initial Scope
 
 The first playable version of the Interactive Novel should remain extremely small.
 
@@ -193,7 +193,7 @@ Once the core structure works, new scenes, threads, and locations can be added g
 
 ---
 
-# Scene Identifiers
+## Scene Identifiers
 
 Each scene in the interactive novel must have a unique identifier.
 
