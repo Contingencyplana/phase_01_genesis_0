@@ -34,6 +34,8 @@ Rules:
 
 ## Scene Structure
 
+### Scene Header
+
 Every scene file follows the same basic structure:
 
 ```
@@ -48,7 +50,7 @@ Location name
 
 ---
 
-## Scene Text
+### Scene Text
 
 Narrative description of the scene.
 

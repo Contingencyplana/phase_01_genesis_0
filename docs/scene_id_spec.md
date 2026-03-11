@@ -88,13 +88,13 @@ scene_0001.md
 
 The following rules must always be followed.
 
-## Scene IDs are Unique
+### Scene IDs are Unique
 
 No two scenes may share the same scene identifier.
 
 ---
 
-## Scene IDs Are Permanent
+### Scene IDs Are Permanent
 
 Once assigned, a scene ID should **never be changed**.
 
@@ -102,7 +102,7 @@ Changing scene IDs would break links from other scenes.
 
 ---
 
-## Scene IDs Are Never Reused
+### Scene IDs Are Never Reused
 
 If a scene is removed from the project, its ID should **not be reused** for a new scene.
 
@@ -110,7 +110,7 @@ This prevents confusion in version history and external references.
 
 ---
 
-## Scene IDs Must Match Filenames
+### Scene IDs Must Match Filenames
 
 The identifier declared inside the file must match the filename.
 
