@@ -268,10 +268,12 @@ The goal of this stage is to create an ecosystem where **everyone who wishes to 
 Participation should be accessible across many skill levels and disciplines, allowing creativity, collaboration, and exploration to flourish.
 
 This stage does not attempt to centralize or monopolize creative work.  
-Instead, the ecosystem should empower a wide creative economy that may include:
+Instead, the ecosystem should empower a wide creative economy.
+
+If successful, this ecosystem may grow to include a wide range of participants, such as:
 
 - AI research and development
-- AI startups and crowdfunding initiatives
+- millions of AI startups and thousands of crowdfunding initiatives
 - technology companies
 - independent studios and small teams
 - individual visionaries and dreamers
