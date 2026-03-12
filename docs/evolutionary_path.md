@@ -390,7 +390,9 @@ Each stage must remain usable and meaningful on its own.
 
 ---
 
-### Stage 1 — Traditional Development Tools
+### The Six Stages
+
+#### Stage 1 — Traditional Development Tools
 
 At the beginning, development relies on conventional tools such as:
 
@@ -405,7 +407,7 @@ As the ecosystem grows, these tools become increasingly difficult for humans to 
 
 ---
 
-### Stage 2 — Assisted Development
+#### Stage 2 — Assisted Development
 
 AI assistants begin helping developers perform routine tasks.
 
@@ -420,7 +422,7 @@ At this stage the development environment remains largely traditional, but AI re
 
 ---
 
-### Stage 3 — Agent Ecosystems
+#### Stage 3 — Agent Ecosystems
 
 AI systems begin coordinating work autonomously.
 
@@ -437,7 +439,7 @@ However, the complexity of this ecosystem becomes increasingly difficult to unde
 
 ---
 
-### Stage 4 — Playable Development Environments
+#### Stage 4 — Playable Development Environments
 
 To manage complex AI ecosystems, development environments evolve into interactive simulations.
 
@@ -454,7 +456,7 @@ This approach allows humans to interact with complex systems using spatial intui
 
 ---
 
-### Stage 5 — Cybercivilization
+#### Stage 5 — Cybercivilization
 
 As the ecosystem grows, the simulated development environment becomes a full cybercivilization.
 
@@ -472,7 +474,7 @@ The civilization itself becomes both:
 
 ---
 
-### Stage 6 — Emergent Intelligence
+#### Stage 6 — Emergent Intelligence
 
 Over time the cybercivilization becomes increasingly capable.
 
