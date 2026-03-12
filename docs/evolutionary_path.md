@@ -285,7 +285,7 @@ The system should therefore function as a **participation platform**, enabling c
 
 ### Stage 11 — Cyberimagination
 
-The ecosystem becomes a large collaborative environment for imagination and mythmaking.
+The ecosystem becomes a large collaborative environment for imagination, make-believe, make-pretend, and mythmaking.
 
 Activities may include:
 
