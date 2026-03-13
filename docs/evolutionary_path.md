@@ -146,7 +146,7 @@ Develop **gamengineering literacy** and create many small experimental games.
 
 ---
 
-### Stage 5 — Game World (Game Maker)
+### Stage 5 — Game Worlds (Game Maker)
 
 Kaleidoscope matures into a full game creation environment.
 
