@@ -1,8 +1,25 @@
-# Starting Island
+# Area: Harbor Island
+
+## Galaxy
+Synergyscape Galaxy
+
+## Solar System
+Kaleidoscope System
+
+## World
+Eggshell
+
+## Region
+Eclectic Archipelago
+
+## Type
+Island
+
+---
 
 ## Description
 
-The Starting Island is a small island at the edge of a scattered archipelago.
+Harbor Island is a small island at the edge of a scattered archipelago.
 
 Ships arrive here from distant lands, bringing travelers, rumors, and fragments of strange ideas.  
 The island is quiet but curious — a place where journeys begin.
@@ -13,7 +30,7 @@ Few people realize that events unfolding here may eventually shape a much larger
 
 ## Why It Matters
 
-The Starting Island serves as the first entry point into the Kaleidoscope world.
+Harbor Island serves as the first entry point into the Kaleidoscope world.
 
 Players arrive here before they understand the larger mysteries of the world.
 
@@ -21,11 +38,11 @@ Many early characters and story threads begin here.
 
 ---
 
-## Key Places
+## Sites
 
-The island contains several locations that may appear in early scenes.
+The island contains several important places that may appear in early scenes.
 
-### The Harbor Village
+### Harbor Village
 
 A small coastal settlement where ships arrive and depart.
 
@@ -33,7 +50,7 @@ Travelers gather here to exchange stories and rumors.
 
 ---
 
-### The Old Library
+### Old Library
 
 A quiet building on a hill overlooking the harbor.
 
@@ -43,7 +60,7 @@ Some claim the library holds references to a mysterious visionary.
 
 ---
 
-### The Forest Path
+### Forest Path
 
 A narrow path leading into the island’s interior.
 
