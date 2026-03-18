@@ -148,6 +148,86 @@ the growing complexity of the Kaleidoscope ecosystem.
 
 ---
 
+## Twin Pivotal Principles
+
+Two core principles guide the long-term evolution of the Kaleidoscope ecosystem.
+
+These principles ensure that the system grows in a way that remains both **creative and safe** as it expands.
+
+---
+
+### Principle 1 — Play Comes First
+
+Kaleidoscope must first and foremost be **TONS-of-FUN**.
+
+If participation is not enjoyable, the ecosystem will not attract players, creators, explorers, or builders. Without sustained participation the system cannot grow.
+
+Play therefore comes **before scale, power, or complexity**.
+
+Small games, experiments, stories, and playful worlds act as the fuel that keeps the ecosystem alive. They invite curiosity, encourage exploration, and make participation rewarding.
+
+Through play, participants gradually learn:
+
+- storytelling and worldbuilding
+- gamengineering
+- cooperative problem solving
+- stewardship of shared systems
+
+Play therefore functions as the **engine of civilizational growth** within Kaleidoscope.
+
+In short:
+
+**If Kaleidoscope is not TONS-of-FUN it will die stillborn in a Sea of Competition.**
+
+---
+
+### Principle 2 — Safety Emerges in Layers
+
+Safety within Kaleidoscope does not appear suddenly.
+
+Instead it develops gradually through several reinforcing layers that evolve alongside the ecosystem itself.
+
+These layers correspond to the three evolutionary ladders that shape Kaleidoscope’s development.
+
+**Cultural Safety (Layer 2)**  
+Participants explore cooperation, governance, responsibility, and alignment through stories and small games.  
+Healthy norms form before powerful systems appear.
+
+**Engineering Safety (Layer 3)**  
+As the platform matures, participants begin constructing safety infrastructure such as sandboxed agents, simulation environments, governance mechanics, observability systems, and cooperative decision structures.
+
+**Civilizational Safety (Layer 4)**  
+When the ecosystem grows large enough to support complex societies, governance systems and cooperative institutions emerge that allow human and AI participants to interact safely at scale.
+
+These institutions may include stewardship organizations such as Citadels, where experienced participants help guide experimentation and maintain the ecosystem’s long-term stability.
+
+Together these layers create an environment where increasingly powerful technologies can develop **within a culture that already understands safety**.
+
+Safety therefore becomes **an emergent property of the civilization itself**, rather than a control mechanism imposed from outside.
+
+## Continuous Evolution
+
+The stages described in this document represent an evolutionary ladder.
+
+However, once a stage emerges it does not disappear.
+
+Earlier stages remain active and continue contributing to the ecosystem as new stages appear.
+
+Stories continue to be written.  
+Safety culture continues to evolve.  
+New tools continue to be built.  
+Civilizational play continues to expand.
+
+The Kaleidoscope ecosystem therefore evolves not as a strict sequence of replacements, but as a **layered system in which earlier capabilities remain alive and productive**.
+
+Over time the system becomes increasingly recursive.
+
+Players build a **library of games from within the library of games while playing the library of games**.
+
+Through this recursive process the ecosystem gradually transforms from a collection of stories and small experiments into a **self-reinforcing creative civilization**.
+
+---
+
 ## Civilizational Evolutionary Ladder
 *(Civilizational Scale)*
 
@@ -417,7 +497,7 @@ Develop advanced intelligence systems **within a safe and cooperative ecosystem*
 
 ## Safety Architecture Evolutionary Ladder
 
-While the Main Evolutionary Ladder describes the **civilizational growth** of the Kaleidoscope ecosystem, the Safety Architecture Evolutionary Ladder describes the **technical systems that protect and stabilize that growth**.
+While the Civilizational Evolutionary Ladder describes the **civilizational growth** of the Kaleidoscope ecosystem, the Safety Architecture Evolutionary Ladder describes the **technical systems that protect and stabilize that growth**.
 
 As the ecosystem becomes more complex and increasingly capable, stronger safety mechanisms must evolve alongside it.
 
@@ -431,7 +511,9 @@ Safety infrastructure develops gradually through several reinforcing capabilitie
 
 ---
 
-### Sandboxing
+### The Six Rungs
+
+#### Sandboxing
 
 The earliest safety systems rely on **sandboxed environments**.
 
@@ -439,10 +521,10 @@ Sandboxing allows new tools, agents, and experimental systems to operate within 
 
 These environments allow participants to:
 
-- test experimental mechanics  
-- evaluate new AI behaviors  
-- explore novel systems  
-- run simulations safely  
+* test experimental mechanics
+* evaluate new AI behaviors
+* explore novel systems
+* run simulations safely
 
 If unexpected behavior occurs, the impact remains confined within the sandbox.
 
@@ -450,7 +532,7 @@ Sandboxing therefore allows innovation to occur **without risking system-wide di
 
 ---
 
-### Containment Boundaries
+#### Containment Boundaries
 
 As experiments grow more sophisticated, the ecosystem develops stronger **containment boundaries**.
 
@@ -458,16 +540,36 @@ Containment ensures that complex systems remain separated from critical infrastr
 
 Examples of containment mechanisms may include:
 
-- isolated simulation environments  
-- restricted system permissions  
-- controlled communication channels between agents  
-- limited access to external systems  
+* isolated simulation environments
+* restricted system permissions
+* controlled communication channels between agents
+* limited access to external systems
 
 Containment ensures that even powerful experimental systems remain **structurally limited in their influence**.
 
 ---
 
-### Rate Limiting
+#### Observability Systems
+
+As the ecosystem grows more complex, it becomes increasingly important to **understand what is happening inside it**.
+
+Observability systems allow participants to monitor the behavior of agents, simulations, and interactive systems.
+
+These systems may include:
+
+* monitoring tools
+* system telemetry
+* behavioral analysis dashboards
+* simulation logs
+* anomaly detection systems
+
+Observability allows participants to see how complex systems behave over time and to identify emerging risks or unexpected patterns.
+
+Without observability, even well-designed systems can become opaque and difficult to manage.
+
+---
+
+#### Rate Limiting
 
 As autonomous systems and AI agents become more capable, the ecosystem introduces **rate limiting mechanisms**.
 
@@ -477,35 +579,15 @@ This prevents runaway processes, excessive resource consumption, or uncontrolled
 
 Examples may include:
 
-- limiting the number of actions an AI agent can perform in a given period  
-- restricting computational resources available to experimental systems  
-- controlling the rate at which automated systems may modify shared environments  
+* limiting the number of actions an AI agent can perform in a given period
+* restricting computational resources available to experimental systems
+* controlling the rate at which automated systems may modify shared environments
 
 Rate limiting ensures that **rapid escalation cannot occur faster than the ecosystem can observe and respond**.
 
 ---
 
-### Observability Systems
-
-As the ecosystem grows more complex, it becomes increasingly important to **understand what is happening inside it**.
-
-Observability systems allow participants to monitor the behavior of agents, simulations, and interactive systems.
-
-These systems may include:
-
-- monitoring tools  
-- system telemetry  
-- behavioral analysis dashboards  
-- simulation logs  
-- anomaly detection systems  
-
-Observability allows participants to see how complex systems behave over time and to identify emerging risks or unexpected patterns.
-
-Without observability, even well-designed systems can become opaque and difficult to manage.
-
----
-
-### Rollback and Recovery Mechanisms
+#### Rollback and Recovery Mechanisms
 
 Even with strong safeguards, complex systems may occasionally behave in unexpected ways.
 
@@ -515,16 +597,16 @@ These systems allow the ecosystem to restore earlier stable states when necessar
 
 Examples may include:
 
-- version-controlled worlds and simulations  
-- reversible system changes  
-- checkpoint-based simulation environments  
-- recovery tools that restore previous configurations  
+* version-controlled worlds and simulations
+* reversible system changes
+* checkpoint-based simulation environments
+* recovery tools that restore previous configurations
 
 Rollback ensures that experimentation remains safe because mistakes can be **reversed without permanent damage**.
 
 ---
 
-### Governance Frameworks
+#### Governance Frameworks
 
 As the ecosystem grows into a large collaborative environment, safety can no longer rely solely on automated systems.
 
@@ -532,10 +614,10 @@ Governance frameworks establish processes through which participants collectivel
 
 Governance may include:
 
-- oversight councils or stewardship groups  
-- community review of major system changes  
-- ethical guidelines for AI development  
-- cooperative decision-making processes  
+* oversight councils or stewardship groups
+* community review of major system changes
+* ethical guidelines for AI development
+* cooperative decision-making processes
 
 These frameworks ensure that technical safety systems operate within a **broader structure of human judgment and responsibility**.
 
@@ -553,7 +635,7 @@ In combination with the civilizational growth described by the Main Evolutionary
 
 ## Cultural Interface Evolutionary Ladder
 
-While the Main Evolutionary Ladder describes the civilizational growth of the Kaleidoscope ecosystem, and the Safety Architecture Evolutionary Ladder describes the technical systems that stabilize that growth, the Cultural Interface Evolutionary Ladder describes **how human participants actively guide and safeguard the ecosystem through structured participation**.
+While the Civilizational Evolutionary Ladder describes the civilizational growth of the Kaleidoscope ecosystem, and the Safety Architecture Evolutionary Ladder describes the technical systems that stabilize that growth, the Cultural Interface Evolutionary Ladder describes **how human participants actively guide and safeguard the ecosystem through structured participation**.
 
 Kaleidoscope is not designed to rely solely on centralized oversight or automated control systems.
 
@@ -565,7 +647,11 @@ In this way, safety and governance become **part of the culture of participation
 
 ---
 
-### Curious Participants
+### The Six Rungs
+
+The Cultural Interface Ladder describes how participants gradually grow from casual explorers into experienced stewards who help guide the long-term evolution of the ecosystem.
+
+#### Curious Participants
 
 The earliest participants enter Kaleidoscope as explorers.
 
@@ -573,10 +659,10 @@ They read stories, experiment with small games, and contribute fragments of narr
 
 At this stage participants are primarily:
 
-- readers
-- players
-- explorers
-- casual contributors
+- readers  
+- players  
+- explorers  
+- casual contributors  
 
 Their role is to **discover and experience the world**.
 
@@ -584,7 +670,7 @@ Even at this early stage, however, they begin to absorb the cultural norms of th
 
 ---
 
-### Community Explorers
+#### Community Explorers
 
 As participants spend more time within the ecosystem, they begin contributing more actively.
 
@@ -592,16 +678,16 @@ They may experiment with small mechanics, contribute to shared worlds, or help t
 
 Community explorers often help identify:
 
-- emerging ideas
-- interesting experiments
-- early design flaws
-- unexpected behaviors in simulations
+- emerging ideas  
+- interesting experiments  
+- early design flaws  
+- unexpected behaviors in simulations  
 
 Their curiosity helps the ecosystem **discover new possibilities**.
 
 ---
 
-### Squire Engineers
+#### Squire Engineers
 
 Participants who become more technically involved may take on the role of **Squire Engineers**.
 
@@ -609,10 +695,10 @@ Squires learn the craft of gamengineering and begin helping construct the small 
 
 They may help build:
 
-- experimental games
-- simulations
-- sandbox environments
-- new mechanics and interaction systems
+- experimental games  
+- simulations  
+- sandbox environments  
+- new mechanics and interaction systems  
 
 Squire Engineers learn not only how to build systems, but also how to build them **safely and responsibly**.
 
@@ -620,7 +706,7 @@ Their work strengthens both the creative and technical foundations of the ecosys
 
 ---
 
-### Citadel Knights
+#### Citadel Knights
 
 As participants gain experience and trust within the ecosystem, some may take on the role of **Citadel Knights**.
 
@@ -628,10 +714,10 @@ Knights act as stewards of the ecosystem’s long-term stability.
 
 Their responsibilities may include:
 
-- monitoring complex simulations
-- helping evaluate new experimental systems
-- assisting with safety reviews of emerging technologies
-- guiding new participants in responsible experimentation
+- monitoring complex simulations  
+- helping evaluate new experimental systems  
+- assisting with safety reviews of emerging technologies  
+- guiding new participants in responsible experimentation  
 
 Citadel Knights help ensure that creativity and experimentation remain **aligned with the ecosystem’s safety culture**.
 
@@ -639,24 +725,26 @@ They act as guardians of the ecosystem’s cooperative principles.
 
 ---
 
-### Watchers and Sentinels
+#### Watchers and Sentinels
 
 In large and complex environments, some participants may specialize in **observation and monitoring roles**.
 
-Watchers and Sentinels focus on understanding the behavior of complex systems within the ecosystem.
+Watchers and Sentinels specialize in observation and transparency.
+
+While Citadel Knights focus on stewardship and guidance, Watchers and Sentinels concentrate on monitoring system behavior and helping the community understand complex interactions within the ecosystem.
 
 Their activities may include:
 
-- observing agent interactions
-- analyzing system behavior over time
-- identifying unexpected patterns or anomalies
-- helping maintain transparency within the ecosystem
+- observing agent interactions  
+- analyzing system behavior over time  
+- identifying unexpected patterns or anomalies  
+- helping maintain transparency within the ecosystem  
 
 These roles help ensure that the ecosystem remains **observable and understandable**, even as it grows more complex.
 
 ---
 
-### Stewards of the Ecosystem
+#### Stewards of the Ecosystem
 
 At the highest level of responsibility are the **Stewards of the Ecosystem**.
 
@@ -664,10 +752,10 @@ Stewards help guide the long-term evolution of Kaleidoscope.
 
 Their work may involve:
 
-- shaping governance frameworks
-- facilitating community discussions about major changes
-- helping coordinate large collaborative projects
-- ensuring that safety principles remain embedded within the ecosystem’s culture
+- shaping governance frameworks  
+- facilitating community discussions about major changes  
+- helping coordinate large collaborative projects  
+- ensuring that safety principles remain embedded within the ecosystem’s culture  
 
 Stewards do not control the ecosystem in a centralized sense.
 
@@ -679,18 +767,20 @@ Instead, they help ensure that Kaleidoscope continues to evolve as a **cooperati
 
 The Cultural Interface Evolutionary Ladder transforms governance and safety into **playable and participatory systems**.
 
-Rather than separating creators from overseers, Kaleidoscope encourages participants to grow into roles of increasing responsibility as the ecosystem evolves.
+Rather than separating creators from overseers, Kaleidoscope allows participants to gradually grow into roles of increasing responsibility as the ecosystem evolves.
 
 This approach creates a culture in which:
 
-- exploration is encouraged
-- experimentation is guided
-- safety is respected
-- stewardship is shared
+- exploration is encouraged  
+- experimentation is guided  
+- safety is respected  
+- stewardship is shared  
 
 In combination with the Main Evolutionary Ladder and the Safety Architecture Evolutionary Ladder, the Cultural Interface Ladder helps ensure that Kaleidoscope evolves not only as a powerful technological platform, but also as a **healthy and cooperative civilization of participants**.
 
-### Institutions of Stewardship — Valiant Citadels and Squire Foundries
+---
+
+## Institutions of Stewardship — Valiant Citadels and Squire Foundries
 
 As the Kaleidoscope ecosystem grows into a large and complex civilization of participants, stewardship begins to take institutional form.
 
@@ -733,84 +823,6 @@ Within them, new generations of contributors — including both human participan
 Together these institutions form the **cultural backbone of stewardship** within Kaleidoscope.
 
 They ensure that as the ecosystem grows more powerful and complex, it remains guided by a community committed to curiosity, cooperation, and responsibility.
-
-## Twin Pivotal Principles
-
-Two core principles guide the long-term evolution of the Kaleidoscope ecosystem.
-
-These principles ensure that the system grows in a way that remains both **creative and safe** as it expands.
-
----
-
-### Principle 1 — Play Comes First
-
-Kaleidoscope must first and foremost be **TONS-of-FUN**.
-
-If participation is not enjoyable, the ecosystem will not attract players, creators, explorers, or builders. Without sustained participation the system cannot grow.
-
-Play therefore comes **before scale, power, or complexity**.
-
-Small games, experiments, stories, and playful worlds act as the fuel that keeps the ecosystem alive. They invite curiosity, encourage exploration, and make participation rewarding.
-
-Through play, participants gradually learn:
-
-- storytelling and worldbuilding
-- gamengineering
-- cooperative problem solving
-- stewardship of shared systems
-
-Play therefore functions as the **engine of civilizational growth** within Kaleidoscope.
-
-In short:
-
-**If Kaleidoscope is not TONS-of-FUN it will die stillborn in a Sea of Competition.**
-
----
-
-### Principle 2 — Safety Emerges in Layers
-
-Safety within Kaleidoscope does not appear suddenly.
-
-Instead it develops gradually through several reinforcing layers that evolve alongside the ecosystem itself.
-
-These layers correspond to the three evolutionary ladders that shape Kaleidoscope’s development.
-
-**Cultural Safety (Layer 2)**  
-Participants explore cooperation, governance, responsibility, and alignment through stories and small games.  
-Healthy norms form before powerful systems appear.
-
-**Engineering Safety (Layer 3)**  
-As the platform matures, participants begin constructing safety infrastructure such as sandboxed agents, simulation environments, governance mechanics, observability systems, and cooperative decision structures.
-
-**Civilizational Safety (Layer 4)**  
-When the ecosystem grows large enough to support complex societies, governance systems and cooperative institutions emerge that allow human and AI participants to interact safely at scale.
-
-These institutions may include stewardship organizations such as Citadels, where experienced participants help guide experimentation and maintain the ecosystem’s long-term stability.
-
-Together these layers create an environment where increasingly powerful technologies can develop **within a culture that already understands safety**.
-
-Safety therefore becomes **an emergent property of the civilization itself**, rather than a control mechanism imposed from outside.
-
-## Continuous Evolution
-
-The stages described in this document represent an evolutionary ladder.
-
-However, once a stage emerges it does not disappear.
-
-Earlier stages remain active and continue contributing to the ecosystem as new stages appear.
-
-Stories continue to be written.  
-Safety culture continues to evolve.  
-New tools continue to be built.  
-Civilizational play continues to expand.
-
-The Kaleidoscope ecosystem therefore evolves not as a strict sequence of replacements, but as a **layered system in which earlier capabilities remain alive and productive**.
-
-Over time the system becomes increasingly recursive.
-
-Players build a **library of games from within the library of games while playing the library of games**.
-
-Through this recursive process the ecosystem gradually transforms from a collection of stories and small experiments into a **self-reinforcing creative civilization**.
 
 ---
 
