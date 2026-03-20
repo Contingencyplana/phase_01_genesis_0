@@ -1,0 +1,77 @@
+# Character Index
+
+## Scope
+
+Current Harbor Island characters only. Includes named roles, recurring figures, and one historical character known only through documents.
+
+---
+
+## The Sailor
+
+**Current location:** Harbor Village — near the cargo crates by the docks  
+**Role:** Ambient local; rumour-keeper and informal guide  
+**What they know or imply:**  
+- Has heard that a Visionary passed through the island years ago, leaving journals that changed how some people think  
+- Believes something "started here" is unfinished  
+- Knows the library is older than much of the village  
+- Has heard stories of strange lights and ruins in the forest, though is uncertain whether to believe them  
+
+**Scenes:** 0101, 0102, 0103, 0104
+
+---
+
+## The Compass Merchant
+
+**Current location:** Harbor Market, at a small stall near the harbor square  
+**Role:** Instrument seller; subtle pointer toward the island's scholarly history  
+**What they know or imply:**  
+- Aware that Harbor Island attracts explorers, scholars, and dreamers  
+- Stocks survey and measuring tools, some of which came from scholars who passed through in earlier times  
+- Hints that understanding direction matters for anyone who plans to explore  
+- Glances toward the library hill when the topic turns serious  
+
+**Scenes:** 0105 (background), 0106, 0108, 0109
+
+---
+
+## The Fishermen
+
+**Current location:** Harbor Market  
+**Role:** Local workers; background colour and ocean mystery seeds  
+**What they know or imply:**  
+- Currents near the island have changed recently; fish are disappearing from familiar waters  
+- Strange lights have been seen on the water at night  
+- Neither fully explains what is happening and both disagree on the cause  
+- One notes that nobody in the village has explored the whole island "properly"  
+
+**Scenes:** 0105 (background), 0107, 0109
+
+---
+
+## The Old Captain
+
+**Current location:** Harbor Docks, repairing a small sailboat near the far end  
+**Role:** Near-retirement sailor; off-island travel hook  
+**What they know or imply:**  
+- Makes occasional short sailing trips to a nearby island where family live  
+- The waters are manageable in good weather but always deserve respect  
+- Is finding it harder to handle the sailboat alone and is looking for someone to help on the next trip  
+- Has offered the player a place on the next crossing if they meet him at first light  
+
+**Scenes:** 0011, 0012, 0013, 0014
+
+---
+
+## The Visionary (historical / indirect)
+
+**Current location:** Unknown — last known heading inland into the island forest  
+**Role:** Absent scholar; the central mystery of Harbor Island  
+**What they know or imply:**  
+- Believed Harbor Island was "more than a place of rest" and part of something far older than the village  
+- Studied the island's currents, stars, and stone formations and concluded they were linked deliberately  
+- Left journals and maps in the island library describing expeditions into the forest  
+- Documented the circle-and-dot symbol across multiple stone sites  
+- Final journal entry ends mid-thought before a planned inland expedition; no further entries follow  
+- Referred to in the unsigned library notice as "the Visionary" by name; their journals are arranged on the central table  
+
+**Scenes:** 0102 (mentioned), 0201 (implied by journals), 0202 (named in notice), 0204, 0205, 0206
