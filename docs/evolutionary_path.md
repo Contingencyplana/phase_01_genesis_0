@@ -160,7 +160,7 @@ These principles ensure that the system grows in a way that remains both **creat
 
 Kaleidoscope must first and foremost be **TONS-of-FUN**.
 
-If participation is not enjoyable, the ecosystem will not attract players, creators, explorers, or builders. Without sustained participation the system cannot grow.
+If participation is not enjoyable, the ecosystem will not attract players, creators, explorers, or builders. Without sustained participation, the system cannot grow.
 
 Play therefore comes **before scale, power, or complexity**.
 
@@ -178,6 +178,12 @@ Play therefore functions as the **engine of civilizational growth** within Kalei
 In short:
 
 **If Kaleidoscope is not TONS-of-FUN it will die stillborn in a Sea of Competition.**
+
+At every stage of development, participation should remain engaging and rewarding.
+
+If something consistently feels like drudgery rather than play, it is a signal that the design should be revisited.
+
+This principle acts as a continuous design check across the ecosystem.
 
 ---
 
@@ -204,6 +210,8 @@ These institutions may include stewardship organizations such as Citadels, where
 Together these layers create an environment where increasingly powerful technologies can develop **within a culture that already understands safety**.
 
 Safety therefore becomes **an emergent property of the civilization itself**, rather than a control mechanism imposed from outside.
+
+This principle acts as a structural constraint on how capability is allowed to grow.
 
 ## Continuous Evolution
 
