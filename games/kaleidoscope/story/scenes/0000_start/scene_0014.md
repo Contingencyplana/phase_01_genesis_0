@@ -24,5 +24,6 @@ The offer hangs quietly in your mind: not a departure yet, but a road opening be
 
 ## Choices
 
+- Meet the captain at first light → scene_0401
 - Return to the docks → scene_0010
 - Return to the harbor village → scene_0002

@@ -2,7 +2,7 @@
 
 ## Scope
 
-Current Harbor Island characters only. Includes named roles, recurring figures, and one historical character known only through documents.
+Current Harbor Island and nearby Brinehook characters. Includes named roles, recurring figures, and one historical character known only through documents.
 
 ---
 
@@ -59,6 +59,20 @@ Current Harbor Island characters only. Includes named roles, recurring figures, 
 - Has offered the player a place on the next crossing if they meet him at first light  
 
 **Scenes:** 0011, 0012, 0013, 0014
+
+---
+
+## The Captain's Daughter
+
+**Current location:** Brinehook Island, between the cottage yard and wharf work area  
+**Role:** Family anchor on Brinehook; practical voice for inter-island daily life  
+**What they know or imply:**  
+- Helps run routine fishing and repair work in the cottage yard  
+- Describes regular exchange of supplies and catch between Brinehook and Harbor Island  
+- Frames the archipelago as ordinary interdependent life rather than legend  
+- Notes the weathered marker near the rise has stood longer than local family memory  
+
+**Scenes:** 0403, 0404, 0407
 
 ---
 

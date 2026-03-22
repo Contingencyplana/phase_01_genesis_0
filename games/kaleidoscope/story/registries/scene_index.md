@@ -2,7 +2,7 @@
 
 ## Scope
 
-Current playable Harbor Island scenes only.
+Current playable Harbor Island and Brinehook Island scenes.
 
 ## Format
 
@@ -54,8 +54,8 @@ Links: 0012, 0014, 0011
 
 **scene_0014** — Tomorrow at First Light  
 Location: Harbor Docks  
-Purpose: Player commits tentatively; captain sets a departure time; route off island established but not yet executed.  
-Links: 0010, 0002
+Purpose: Player commits tentatively; captain sets first-light departure; player can now take the crossing to Brinehook.  
+Links: 0401, 0010, 0002
 
 ---
 
@@ -163,6 +163,50 @@ Links: 0304, 0301
 Location: Deep Forest  
 Purpose: Ancient stone circle with the symbol carved into a central slab; player understands why the Visionary came here.  
 Links: 0301, 0002
+
+---
+
+## Brinehook Scenes (0401–0408)
+
+**scene_0401** — Crossing the Channel  
+Location: Open Water  
+Purpose: First grounded crossing with the old captain; establishes Brinehook as a nearby inhabited island.  
+Links: 0402
+
+**scene_0402** — Brinehook Wharf  
+Location: Brinehook Wharf  
+Purpose: Arrival scene; smaller, quieter island rhythm with practical dockside life.  
+Links: 0403, 0405, 0406
+
+**scene_0403** — The Cottage Yard  
+Location: Cottage Yard  
+Purpose: Domestic working yard; introduces the captain's daughter and Brinehook's family-scale routines.  
+Links: 0404, 0405, 0406, 0402
+
+**scene_0404** — The Captain's Family  
+Location: Cottage Yard  
+Purpose: Human-scale conversation about weather, supply runs, and island interdependence.  
+Links: 0405, 0406, 0403
+
+**scene_0405** — Along the Rocky Shore  
+Location: Rocky Shoreline  
+Purpose: Quiet coastal exploration with reflective view of open water between islands.  
+Links: 0406, 0407, 0402, 0403
+
+**scene_0406** — The Low Rise  
+Location: Lookout Rise  
+Purpose: Modest lookout where Harbor Island is visible, reinforcing ordinary travel between islands.  
+Links: 0407, 0405, 0403, 0402
+
+**scene_0407** — The Weathered Marker  
+Location: Lookout Rise  
+Purpose: Subtle cross-island clue; weathered marker bears a faint circle-and-dot symbol with no clear explanation.  
+Links: 0406, 0405, 0408
+
+**scene_0408** — Return at Dusk  
+Location: Brinehook Wharf  
+Purpose: Grounded departure scene; short visit concludes with sail back to Harbor Island.  
+Links: 0010
 
 ---
 
