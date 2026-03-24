@@ -92,17 +92,17 @@ Within `games/kaleidoscope/`, the current story work is centered on the Interact
 
 ## Development Philosophy
 
-Phase 1 should remain small enough to stay playable, understandable, and survivable.
+Phase 1 should remain focused enough to stay playable.
 
 The aim is not to overbuild the full ecosystem in advance. The aim is to grow it through a sequence of small, testable, working layers.
 
 Current priorities include:
 
-* building a real playable world rather than only planning one
-* keeping the workflow sustainable
-* adding just enough narrative infrastructure to preserve continuity
-* using automation and registries to reduce drudgery
-* expanding only when the current layer feels stable
+- building a real playable world rather than only planning one
+- keeping the workflow sustainable
+- adding just enough narrative infrastructure to preserve continuity
+- using automation and registries to reduce drudgery
+- expanding only when the current layer feels stable
 
 The emphasis is on **experimentation, simplicity, iterative growth, and work/play balance**.
 
