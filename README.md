@@ -4,14 +4,17 @@
 
 This workspace contains the early foundation of the Kaleidoscope ecosystem.
 
-The goal of Phase 1 Genesis is to establish the minimal infrastructure required to:
+Phase 1 — Genesis is where the first playable substrate is being built: the initial world, the first narrative systems, the first platform connections, and the first workflows that allow the project to grow without collapsing into confusion.
+
+The goal is to establish enough structure to:
 
 - create games
 - publish games
 - play games
 - experiment with interactive storytelling
+- grow a small playable world through iterative development
 
-The workspace focuses on building a small experimental platform that can evolve gradually over time.
+This workspace is not the finished ecosystem. It is the first durable layer beneath it.
 
 ---
 
@@ -23,102 +26,93 @@ Three core systems form the foundation of this workspace.
 
 Kaleidoscope is the creation system.
 
-It functions as:
+It is the place where interactive worlds, narrative structures, and experimental game forms are built.
 
-- a game maker
-- a game room maker
-
-Kaleidoscope allows developers to construct small experimental games and interactive environments.
-
-The first system built with Kaleidoscope is the **Interactive Novel**.
-
----
+At the current stage, the first major playable system being developed inside Kaleidoscope is the **Interactive Novel**.
 
 ### Alpha Dreaming
 
 Alpha Dreaming is the publishing bridge.
 
-It is responsible for:
+It is responsible for packaging, upload, and publication workflows that connect creation to play.
 
-- packaging game builds
-- uploading games
-- publishing games to Alpha TestBed
+Alpha Dreaming serves as the developer-facing link between building a game and making it available inside a play environment.
 
-Alpha Dreaming acts as the developer interface between creation and play.
+### Morningate Games / TestBed Layer
 
----
+The play environment is currently represented through the platform layer, including the Morningate Games structure and the early publishing/testing pathway.
 
-### Alpha TestBed
+This layer is intended to support:
 
-Alpha TestBed is the play environment.
+- rapid playtesting
+- lightweight access to experimental games
+- a growing library of playable builds
 
-It functions as:
-
-- a game room
-- a library of experimental games
-- a playtesting environment
-
-Players can browse available games and launch them quickly.
-
-The TestBed is intentionally simple so that experimentation can happen rapidly.
+The play layer should remain simple enough that experimentation can happen quickly.
 
 ---
 
-## Initial Development Focus
+## Current Development Focus
 
-The first system being built inside Kaleidoscope is an **Interactive Novel**.
+The first major playable system being built inside Kaleidoscope is an **Interactive Novel**.
 
-This system provides:
+This system currently focuses on:
 
-- a narrative world
-- interactive scenes
-- branching choices
-- story exploration
+- a narrative world built through interconnected scenes
+- interactive exploration through branching choices
+- a gradually expanding archipelago structure
+- lightweight narrative registries that reduce reliance on memory
+- a workflow that balances building, playtesting, and automation
 
-The Interactive Novel represents **Stage 1 — Interactive Fiction** in the Kaleidoscope evolutionary path.
+This Interactive Novel represents **Stage 1 — Interactive Fiction** in the Kaleidoscope evolutionary path.
 
 ---
 
 ## Workspace Structure
 
+```text
+phase_01_genesis_0/
+
+docs/                          → architecture, design, and workflow documentation
+engines/
+    kaleidoscope_engine/       → shared engine layer under gradual development
+experiments/                   → experimental work and prototypes
+games/
+    kaleidoscope/              → current primary Kaleidoscope game workspace
+    prototypes/                → additional early game experiments
+    trichess_and_tricheckers/  → related game experiments
+platform/
+    alpha_dreaming/            → publishing bridge
+    morningate_games/          → play / launcher / library layer
 ```
-phase_1_genesis_0/
 
-kaleidoscope/       → game creation system
-alpha_dreaming/     → publishing system
-alpha_testbed/      → play environment
-
-interactive_novel/  → first Kaleidoscope game
-
-games/              → additional experiments and prototypes
-
-docs/               → architecture and design documentation
-```
+Within `games/kaleidoscope/`, the current story work is centered on the Interactive Novel and its growing world structure.
 
 ---
 
 ## Development Philosophy
 
-The project begins extremely small.
+Phase 1 should remain small enough to stay playable, understandable, and survivable.
 
-Early goals include:
+The aim is not to overbuild the full ecosystem in advance. The aim is to grow it through a sequence of small, testable, working layers.
 
-- one world region
-- three characters
-- ten scenes
+Current priorities include:
 
-From this small starting point the ecosystem can expand gradually.
+* building a real playable world rather than only planning one
+* keeping the workflow sustainable
+* adding just enough narrative infrastructure to preserve continuity
+* using automation and registries to reduce drudgery
+* expanding only when the current layer feels stable
 
-The emphasis is on **experimentation, simplicity, and iterative growth**.
+The emphasis is on **experimentation, simplicity, iterative growth, and work/play balance**.
 
 ---
 
 ## Guiding Principle
 
-Build small.
+Build a little.
+Play a little.
+Stabilize a little.
+Expand a little.
 
-Test ideas.
-
-Expand gradually.
-
-The Genesis stage exists to create the minimal foundation from which the Kaleidoscope ecosystem can grow.
+Phase 1 — Genesis exists to create the first playable and survivable foundation from which the wider Kaleidoscope ecosystem can grow.
