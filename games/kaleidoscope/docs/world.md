@@ -1,39 +1,67 @@
 # Kaleidoscope — World
 
-This document describes the initial world setting for the Kaleidoscope Interactive Novel.
+This document describes the current early world setting for the Kaleidoscope Interactive Novel.
 
 The world is intentionally introduced in fragments.  
-Players should discover the setting gradually through exploration rather than receiving a full explanation at the beginning.
+Players should discover it gradually through exploration, travel, conversation, documents, and dream scenes rather than receiving a full explanation at the beginning.
 
-The purpose of this document is simply to define the **first region** where the story begins.
+The purpose of this document is to define the current shape of the **early archipelago layer** now that the first several islands and dream thresholds have been established.
 
 ---
 
 ## The Archipelago
 
-The story begins in a scattered chain of islands known collectively as **The Archipelago**.
+The Interactive Novel begins in a scattered island world known collectively as **the Archipelago**.
 
-The Archipelago is a place of travel, rumor, and discovery. Ships constantly arrive and depart, carrying stories of distant lands and strange ideas.
+The Archipelago is a place of travel, weather, rumor, work, and discovery. Its islands are connected by short crossings, old habits, local duties, and the shared practical knowledge required to live with the sea.
 
-Many people in the Archipelago speak of a mysterious dreamer who once imagined a different kind of world — a world where people create, explore, and contribute rather than simply labor.
+It is also a place where older patterns seem to persist beneath ordinary life.
 
-Some believe the dreamer vanished.
-
-Others believe the dream has only just begun.
+Sailors, caretakers, fishers, and travelers all carry fragments of belief about the waters, the islands, and the signs that recur among them. Some interpret these fragments as superstition. Others treat them as history half remembered.
 
 ---
 
-## The First Region — Harbor Island
+## The Current Early Archipelago
 
-The first scenes of the Interactive Novel take place on **Harbor Island**, a busy port where travelers gather.
+The current early world is centered on four grounded islands and a small but growing dream layer.
 
-Harbor Island contains several key locations:
+### Harbor Island
 
-- **The Harbor** — ships arrive and depart for distant islands.
-- **The Library on the Hill** — a quiet building filled with old journals and strange documents.
-- **The Forest Path** — a trail that leads into the dense forest beyond the town.
+Harbor Island is the opening island and the first major narrative anchor of the Interactive Novel.
 
-These locations allow players to explore different directions immediately.
+It is a place of arrival, rumor, archives, and first discovery. Its harbor, library, and forest path introduce the player to the wider world while also establishing the earliest signs of deeper mystery.
+
+Harbor Island currently serves as:
+
+- the main arrival point
+- the first social hub
+- the first archive of the Visionary's ideas
+- the first place where the circle-and-dot symbol is clearly encountered
+- the first grounded meeting point between ordinary life and older patterns
+
+### Brinehook Island
+
+Brinehook Island is the first nearby inhabited island reached by ordinary sail.
+
+It expands the world by showing domestic island life: family, fishing, supply exchange, and the practical rhythms that connect one island to another.
+
+Brinehook proves that the Archipelago is not only a place of mystery, but also a lived world of ordinary interdependence.
+
+### Lantern Key
+
+Lantern Key is a small windworn island shaped by public duty.
+
+It expands the world by introducing beacon-keeping, weather-watching, and the responsibilities that help nearby crossings remain survivable.
+
+Lantern Key shows that the Archipelago contains working infrastructure as well as homes and harbors.
+
+### Saint Elmo’s Rest
+
+Saint Elmo’s Rest is a refuge island used when weather turns poor and crossings become unsafe.
+
+It expands the world by introducing sailor custom, sea habit, and inherited caution. Here the Archipelago begins to feel slightly more uncanny, not through open revelation, but through ritual, folklore, and repeated practice.
+
+Saint Elmo’s Rest shows that the world is shaped not only by work and travel, but also by memory, warning, and old coastal custom.
 
 ---
 
@@ -41,67 +69,61 @@ These locations allow players to explore different directions immediately.
 
 The world should feel:
 
-- mysterious
 - curious
 - exploratory
-- hopeful
+- atmospheric
+- lightly mysterious
+- hopeful without being naive
+- grounded enough to feel lived-in
+- large enough to feel unfinished
 
-Even when characters disagree or conflict arises, the setting should encourage curiosity and discovery rather than despair.
+Even when characters disagree, fear change, or speak cautiously about older signs, the setting should still encourage discovery rather than collapse into despair.
 
----
-
-## Rumors of the Visionary
-
-Throughout the Archipelago, travelers whisper about a mysterious visionary.
-
-Fragments of the visionary's ideas appear in many forms:
-
-- journals
-- letters
-- unfinished plans
-- rumors told by sailors and scholars
-
-Different characters interpret the visionary's ideas in different ways.
-
-Some see hope.
-
-Others see danger.
-
-Players gradually uncover these fragments as they explore the world.
+The Archipelago should feel practical on the surface, with deeper significance sensed beneath it.
 
 ---
 
-## Initial Locations
+## The Visionary and the Older Pattern
 
-The Interactive Novel begins with three accessible locations:
+Across the early islands, players encounter signs of a larger unresolved thread.
 
-1. **The Harbor**
-2. **The Library**
-3. **The Forest Path**
+Travelers whisper about a mysterious Visionary whose journals, maps, and unfinished research suggest that Harbor Island and its surrounding waters are part of something older than the current settlements.
 
-Each location leads to different characters, clues, and story threads.
+The recurring circle-and-dot symbol appears in multiple places across the archipelago, including:
 
-These locations form the starting point of the Kaleidoscope saga.
+- Harbor Island’s library and forest
+- Brinehook’s weathered marker
+- Lantern Key’s older foundation stone
+- Saint Elmo’s Rest’s resting stone
+- dream scenes beyond ordinary waking travel
 
----
-
-## Future Expansion
-
-Over time the world may expand beyond Harbor Island.
-
-Possible future regions include:
-
-- deeper islands of the Archipelago
-- dreamlike realms beyond the sea
-- experimental laboratories exploring new ideas
-- forgotten ruins from earlier civilizations
-
-These regions should appear gradually as the story grows.
+These repeated traces imply that the islands are connected by more than simple geography, though the full meaning of that connection is not yet known.
 
 ---
 
-## Design Principle
+## Dream Layer
+
+Alongside the grounded island world, the Interactive Novel now includes a small dream layer.
+
+These dream scenes do not replace the waking world. They deepen it.
+
+The dream layer currently serves to:
+
+- mark meaningful thresholds
+- echo the recurring symbol
+- introduce folded time, recurrence, and dream logic in symbolic form
+- hint that some islands and some moments stand closer to a hidden seam than others
+
+The dream layer should remain restrained. It should deepen wonder and uncertainty without overwhelming the grounded archipelago.
+
+---
+
+## Current Design Principle
 
 The world should feel larger than what is immediately visible.
 
-Players should always sense that there are more places to explore and more stories waiting to be discovered.
+Each new island should make the Archipelago feel more real, more connected, and more inhabited.
+
+Each recurring sign, dream, or older stone should make the deeper mystery feel broader, not narrower.
+
+The player should always sense that there are more crossings to make, more islands to reach, and more patterns waiting to be noticed.
