@@ -10,9 +10,9 @@ The current Kaleidoscope narrative structure can be understood as three primary 
 
 ```text
 scene
-↓
+    ↓
 story arc
-↓
+    ↓
 world
 ```
 
