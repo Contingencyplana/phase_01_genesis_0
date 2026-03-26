@@ -49,4 +49,5 @@ Harbor Island suddenly feels a little larger than it did when you first arrived.
 - Climb the path to the library → scene_0003
 - Follow the forest path → scene_0004
 - Continue exploring the harbor market → scene_0105
+- Take the public ferry toward Tidemarket → scene_0701
 - Return to the harbor village square → scene_0002
