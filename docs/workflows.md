@@ -226,5 +226,3 @@ Games are packaged and published through Alpha Dreaming.
 Players access and test those games through the TestBed layer.
 
 Together these workflows support an evolving ecosystem of experimental games, playable systems, and iterative growth.
-
-This version keeps the spirit of your original file, but makes it a bit more consistent with the Phase 1 material and a bit less likely to overstate what already exists.
