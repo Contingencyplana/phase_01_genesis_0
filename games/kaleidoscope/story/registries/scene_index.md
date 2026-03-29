@@ -375,12 +375,27 @@ Links: 0802, 0705, 0707
 
 ---
 
-## Narrowwater Crossing Scenes (0901)
+## Narrowwater Crossing Scenes (0901-0904)
 
 **scene_0901** — The Ferry Marshal on Narrowwater  
 Location: Overlook toward the Inner Channels  
-Purpose: The Ferry Marshal explains the tidal passage structure that produces systemic delay; grounds civic friction in physical geography.  
-Links: 0707, 0706
+Purpose: Conceptual entry scene; the Ferry Marshal explains how shifting tide-and-wind windows produce cascading civic delay across routes.  
+Links: 0902, 0707, 0706
+
+**scene_0902** — Queue at the Narrowwater Staging Line  
+Location: Narrowwater Crossing / Staging Buoys  
+Purpose: Queue-pressure scene showing competing boats, cargo, passengers, and visible bottleneck strain before window release.  
+Links: 0903, 0707
+
+**scene_0903** — Window Release at the Flag Line  
+Location: Narrowwater Crossing / Signal and Assignment Point  
+Purpose: Assignment scene where channel status, draft limits, and weather risk determine who moves now and who is deferred.  
+Links: 0904, 0902
+
+**scene_0904** — Spillover After the Deferred Window  
+Location: Narrowwater Crossing / Return Flow Toward Tidemarket  
+Purpose: Consequence scene showing local deferral becoming civic spillover via notice revision, intake dispute, and market shortfall pressure.  
+Links: 0705, 0802, 0703
 
 ---
 

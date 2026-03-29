@@ -32,5 +32,6 @@ He gives you a measured look.
 
 ## Choices
 
+- Follow the Marshal down to the staging line → scene_0902
 - Return to the overlook → scene_0707
 - Return to Gathering Lane → scene_0706
