@@ -34,5 +34,6 @@ It is about whether the archipelago can expand without forgetting what it has al
 
 ## Choices
 
+- Step into the live argument at the rope line → scene_1002
 - Return to the dispute → scene_0708
 - Return to Gathering Lane → scene_0706

@@ -399,9 +399,24 @@ Links: 0705, 0802, 0703
 
 ---
 
-## Old Mooring Stone Scenes (1001)
+## Old Mooring Stone Scenes (1001-1004)
 
 **scene_1001** — The Old Mooring Stone  
 Location: Edge of Tidemarket / Older Waterfront Margin  
-Purpose: Player reaches the disputed older marker; the stone is present, weathered, and marked; the civic-expansion vs. older-caution pressure becomes concrete.  
-Links: 0708, 0706
+Purpose: Observational entry scene where the player reaches the disputed marker and encounters the core expansion-versus-caution pressure.  
+Links: 1002, 0708, 0706
+
+**scene_1002** — At the Rope Line  
+Location: Edge of Tidemarket / Roped Quay Section  
+Purpose: Live public-dispute scene where berth geometry, delay pressure, preservation claims, and work-around options are argued in practical terms.  
+Links: 1003, 1001
+
+**scene_1003** — Survey at Low Spray  
+Location: Edge of Tidemarket / Stone Face and Retaining Wall  
+Purpose: Reading-attempt scene where a survey hand examines the weathered marking, yielding partial evidence and deeper ambiguity rather than resolution.  
+Links: 1004, 1002
+
+**scene_1004** — Holding Order at the Quay Margin  
+Location: Edge of Tidemarket / Temporary Work Marker  
+Purpose: Temporary civic-management scene where the dispute is procedurally deferred and consequences propagate into notices, records, and market timing.  
+Links: 0705, 0803, 0703
