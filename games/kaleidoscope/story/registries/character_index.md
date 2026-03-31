@@ -2,7 +2,7 @@
 
 ## Scope
 
-Current Harbor Island plus nearby Brinehook, Lantern Key, and Saint Elmo's Rest characters. Includes named roles, recurring figures, and one historical character known only through documents.
+Current Harbor Island plus nearby Brinehook, Lantern Key, and Saint Elmo's Rest characters; Tidemarket and civic-cluster characters. Includes named roles, recurring figures, and one historical character known only through documents.
 
 ---
 
@@ -157,3 +157,18 @@ Current Harbor Island plus nearby Brinehook, Lantern Key, and Saint Elmo's Rest 
 - Referred to in the unsigned library notice as "the Visionary" by name; their journals are arranged on the central table  
 
 **Scenes:** 0102 (mentioned), 0201 (implied by journals), 0202 (named in notice), 0204, 0205, 0206
+
+---
+
+## The Ledger Clerk
+
+**Current location:** Ledger House, inland records hall; present at the intake desk and archive table  
+**Role:** Institutional memory keeper; manages claims intake, route amendments, and dispute records  
+**What they know or imply:**  
+- Receives contested cargo-sequence claims and converts them into written review records  
+- Reconciles channel updates, weather corrections, and intake claims into durable route record at the archive table  
+- Frames civic order as a matter of correct format and procedure rather than personal authority  
+- Notes explicitly that dispute becomes actionable only when it is written down in the proper form  
+- Makes the Ledger House feel less dramatic than the waterfront and more consequential  
+
+**Scenes:** 0801, 0802, 0803

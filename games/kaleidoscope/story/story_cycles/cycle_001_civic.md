@@ -145,6 +145,16 @@ It is no longer only a private curiosity.
 
 It becomes something people may want to preserve, explain, regulate, dismiss, or build around.
 
+### Connected Return Paths
+
+The civic cycle should not feel like an isolated destination.
+
+It should remain connected to the broader archipelago through grounded departures, return routes, and travel-spine continuity.
+
+This matters because the civic cluster is not meant to replace the larger world.
+
+It is meant to become one durable, connected node within it.
+
 ---
 
 ## Main Tension
@@ -171,87 +181,6 @@ This tension should not yet become total conflict or rigid factional politics.
 It should remain human, practical, and story-rich.
 
 ---
-
-## The Four-Part Civic Harbor Cluster
-
-The Civic Story Cycle should take the form of a **Civic Harbor Cluster**.
-
-It should not be shaped as four more separate sampler-islands.
-
-Instead, it should be shaped around one larger civic node and three strongly related surrounding civic pressures.
-
-The recommended four-part silhouette is:
-
-### 1. The Civic Harbor / Market Town
-
-This should be the first truly dense public place in the archipelago.
-
-Its role is to introduce:
-
-- heavier traffic
-- more voices
-- more visible exchange
-- a stronger sense of public life
-- the first feeling that many interests are now converging in one place
-
-This is the social center of the cycle.
-
-It should feel like the moment when the archipelago starts becoming more than a collection of islands.
-
-### 2. The Records Hall / Signal Hall / Exchange House
-
-This should be the institutional heart of the cycle.
-
-It does not need to be a bureaucracy.
-
-It should be a place where:
-
-- warnings arrive
-- notices accumulate
-- routes matter
-- records are kept
-- decisions are shaped
-- information begins to circulate beyond oral rumor alone
-
-This is where the cycle begins introducing shared memory and shared coordination.
-
-### 3. The Route Bottleneck / Ferry Point / Customs Crossing
-
-This should be the practical pressure point of the cycle.
-
-Its role is to make public life tangible through movement and friction.
-
-This place should show that:
-
-- routes are finite
-- crossings matter
-- timing matters
-- delay matters
-- weather matters
-- one local problem can become a wider civic problem
-
-This prevents the civic layer from becoming purely architectural or social.
-
-It keeps the sea and movement central.
-
-### 4. The Disputed Older Site
-
-This should be the mystery-pressure point of the cycle.
-
-It may be:
-
-- a stone
-- a shrine
-- a marker
-- an old foundation
-- a preserved patch of ground
-- an older civic-adjacent site that some want to study, preserve, move, dismiss, or build over
-
-Its role is to make the older unresolved pattern socially visible.
-
-The foundational cycle introduced older traces in relatively quiet or local contexts.
-
-The civic cycle should show what happens when those traces matter inside a denser public world.
 
 ## Working Arc Roles
 
@@ -358,6 +287,8 @@ Taken together, the four arcs should function like this:
 
 That combination gives the Civic Story Cycle a strong, balanced Ground Floor.
 
+---
+
 ## Tone
 
 The civic story cycle should feel:
@@ -386,10 +317,11 @@ By the end of the civic story cycle, the player should feel that:
 - civic coordination is necessary, but not effortless
 - the older pattern still matters, but now it matters inside a shared social environment
 - the world is beginning to grow upward, not just outward
+- the civic cluster is a connected part of the wider archipelago rather than a self-contained cul-de-sac
 
 In short:
 
-the foundational cycle proved that the archipelago could exist
+the foundational story cycle proved that the archipelago could exist
 
 the civic story cycle should prove that it can begin to **cohere**
 
@@ -451,6 +383,8 @@ The dream layer should still deepen the world rather than replace it.
 Ordinary travel must remain central.
 
 Even as the world becomes more civic, boats, crossings, warnings, delays, and routes should still anchor the story’s reality.
+
+The civic cluster should therefore remain visibly connected to the wider travel spine.
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Scope
 
-Current Harbor Island mystery structure with playable expansions to Brinehook Island, Lantern Key, Saint Elmo's Rest, and Tidemarket.
+Current Harbor Island mystery structure with playable expansions to Brinehook Island, Lantern Key, Saint Elmo's Rest, and the full civic cluster: Tidemarket, Ledger House, Narrowwater Crossing, and Old Mooring Stone.
 
 ---
 
@@ -77,6 +77,8 @@ Several threads suggest an archipelago beyond Harbor Island. The Visionary's map
 **What is established:**  
 At Tidemarket's expanding waterfront, an old mooring stone predates the current quay works. Locals are divided: move it to square the berth lines, preserve it as a historical marker, or at minimum have a survey crew read it properly before building over it. The stone bears a worn marking the player does not recognize from the library or forest — something older, worn almost smooth by centuries of salt and wind. The dispute makes clear that old sites are no longer confined to forests and ruins; here, older mystery lives inside ordinary civic infrastructure.
 
-**Key scenes:** 0708, 1001  
-**Current status:** Introduced. The stone is physically reachable and its marking is observed. No character names or explains the mark. The survey crew exists only as a suggestion in the dispute. The stone's origin and significance are unresolved.  
+A rope-line dispute at the quay has been played out in full. A survey hand attempted to read the marking at low spray and recovered only partial forms — not enough for certainty, but enough to harden disagreement. Some hear old designation; some hear superstition; some hear delay dressed as reverence. The stone was not identified. The dispute resolved into a temporary holding order: the stone stays in place pending further reading, one berth plan is deferred, and the consequence has propagated into route notices, intake claims, and market timing.
+
+**Key scenes:** 0708, 1001, 1002, 1003, 1004  
+**Current status:** Active. The stone is physically reachable, the dispute has been played out in full, and a temporary civic holding order is in place. The marking was partially read but not identified. Its origin and significance remain unresolved.  
 **Likely future direction:** The marking may connect to the circle-and-dot network, predate it, or be entirely separate. The civic tension — expand vs. preserve — is the first mystery-pressure to appear inside active development rather than wilderness sites, and may recur across other islands as the archipelago grows.

@@ -2,7 +2,7 @@
 
 ## Scope
 
-Current playable Harbor Island, Brinehook Island, Lantern Key, Saint Elmo's Rest, and Tidemarket civic-cycle scenes.
+Current playable Harbor Island, Brinehook Island, Lantern Key, Saint Elmo's Rest, and civic-cycle scenes: Tidemarket, Ledger House, Narrowwater Crossing, and Old Mooring Stone.
 
 ## Format
 
@@ -353,6 +353,11 @@ Links: 0901, 0706, 0705
 Location: Edge of Tidemarket / Older Waterfront Margin  
 Purpose: Civic dispute scene over a contested older stone; introduces the older-mystery layer inside expansion itself.  
 Links: 1001, 0706, 0702
+
+**scene_0709** — Return Ferry from Tidemarket  
+Location: Tidemarket Harborfront / Ferry Landing  
+Purpose: Grounded departure scene; player boards the public return ferry back to Harbor Island, closing the civic cluster as a connected node in the travel spine.  
+Links: 0010
 
 ---
 

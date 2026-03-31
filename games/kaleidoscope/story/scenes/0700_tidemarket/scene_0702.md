@@ -39,3 +39,4 @@ Too many crossings depend on this quay for anything to be casual.
 - Speak with the wharf clerk → scene_0704
 - Head toward the market quarter → scene_0703
 - Look for route information → scene_0705
+- Take the return ferry back to Harbor Island → scene_0709
