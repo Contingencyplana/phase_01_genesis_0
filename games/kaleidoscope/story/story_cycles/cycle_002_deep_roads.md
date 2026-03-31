@@ -175,7 +175,7 @@ It should remain investigative, partial, and story-rich.
 
 ## Working Arc Roles
 
-### 2000_expedition_base/
+### 1100_expedition_base/
 
 **Role in the Deep Roads Story Cycle:**  
 This is the **mobilization and preparation layer** of the cycle.
@@ -200,7 +200,7 @@ Without this arc, the Deep Roads cycle has no foothold. This is the place where 
 
 ---
 
-### 2100_inland_routes/
+### 1200_inland_routes/
 
 **Role in the Deep Roads Story Cycle:**  
 This is the **transit and terrain layer** of the cycle.
@@ -223,7 +223,7 @@ Without this arc, the Deep Roads cycle has no true movement layer. This is the p
 
 ---
 
-### 2200_symbol_network/
+### 1300_symbol_network/
 
 **Role in the Deep Roads Story Cycle:**  
 This is the **pattern-recognition and site-linking layer** of the cycle.
@@ -246,7 +246,7 @@ Without this arc, the Deep Roads cycle remains exploratory but not cumulative. T
 
 ---
 
-### 2300_visionary_trace/
+### 1400_visionary_trace/
 
 **Role in the Deep Roads Story Cycle:**  
 This is the **evidence-following and threshold layer** of the cycle.
@@ -273,10 +273,10 @@ Without this arc, the Deep Roads cycle has no culminating direction. This is the
 
 Taken together, the four arcs should function like this:
 
-- `2000_expedition_base/` = **mobilization and preparation**
-- `2100_inland_routes/` = **transit and terrain discovery**
-- `2200_symbol_network/` = **pattern recognition**
-- `2300_visionary_trace/` = **evidence-following and threshold pressure**
+- `1100_expedition_base/` = **mobilization and preparation**
+- `1200_inland_routes/` = **transit and terrain discovery**
+- `1300_symbol_network/` = **pattern recognition**
+- `1400_visionary_trace/` = **evidence-following and threshold pressure**
 
 That combination gives the Deep Roads story cycle a strong, balanced discovery layer.
 
@@ -396,13 +396,13 @@ What matters is that together they form a coherent investigation cluster.
 
 The first minimal implementation step for this cycle should be the foothold arc:
 
-### 2000_expedition_base/
+### 1100_expedition_base/
 
 This should begin with three foundational scenes:
 
-- `scene_2001` — **Inland Archives**
-- `scene_2002` — **The Guide**
-- `scene_2003` — **Maps and Contradiction**
+- `scene_1101` — **Inland Archives**
+- `scene_1102` — **The Guide**
+- `scene_1103` — **Maps and Contradiction**
 
 This first step should:
 
