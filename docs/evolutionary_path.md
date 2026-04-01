@@ -213,6 +213,8 @@ Safety therefore becomes **an emergent property of the civilization itself**, ra
 
 This principle acts as a structural constraint on how capability is allowed to grow.
 
+---
+
 ## Continuous Evolution
 
 The stages described in this document represent an evolutionary ladder.
