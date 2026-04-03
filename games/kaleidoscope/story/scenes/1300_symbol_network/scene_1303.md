@@ -32,5 +32,6 @@ Its destination is not yet visible.
 
 ## Choices
 
+- Follow the continuing line further inland → scene_1401
 - Return to compare with the full rubbing set → scene_1302
 - Return to the split marker shelf → scene_1203

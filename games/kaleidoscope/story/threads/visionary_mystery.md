@@ -157,6 +157,35 @@ These possibilities should emerge gradually.
 
 ---
 
+## Deep Roads Phase — The Grounded Trace
+
+With the Visionary Trace arc (1400), the relationship between the Visionary and the circle-and-dot network becomes concrete and investigated rather than speculative.
+
+The player discovers that the Visionary was following exactly what the player is now following: the marked inland line. Evidence of the Visionary's systematic inquiry is found at specific locations:
+
+- A study station was established on the inland ridge with deliberate clearing, observation platforms, and collected materials for documentation
+- Field notes, maps, and dated entries show the Visionary visiting multiple times, understanding the relay-site spacing, mapping each site, and noting that "the destination may finally be within reach"
+- The Visionary's initials and a date are carved into the final marked site the player reaches
+- Beyond that site, no further records exist
+
+**What this phase does:**
+- It transforms the Visionary from a historical mystery into an active investigator whose work can be traced and studied
+- It grounds the symbol network in the real deliberate action of a specific person rather than leaving it as abstracted pattern
+- It establishes inheritance: the player is following someone else's unfinished quest, not discovering it in isolation
+- It raises the forward pressure: if the Visionary reached this point and stopped leaving records, something happened; what comes next is both continuation of their work and movement into the unknown
+
+**What this phase does not do:**
+- It does not explain the Visionary's full mission or destination
+- It does not resolve what happened to them or why they stopped leaving dated records
+- It does not identify the builders of the network or its original purpose
+- It does not move into dream or metaphysical territory
+- It does not prematurely collapse the mystery into explanation
+
+**Design principle for this phase:**
+The Visionary remains grounded, systematic, and humanly investigative. The player feels they are retracing a real person's documented inquiry. The tone is archaeological, not mystical. The inheritance pressure is concrete: here is someone's work; it is unfinished; the next move is yours.
+
+---
+
 ## Design Principle
 
 The Visionary thread should remain:

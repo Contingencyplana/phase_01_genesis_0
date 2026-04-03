@@ -11,9 +11,11 @@ Current Harbor Island mystery structure with playable expansions to Brinehook Is
 **What is established:**  
 An unnamed scholar visited Harbor Island at an unknown point in the past. They left a series of journals and maps in the island library. Their writing describes a belief that the island was "not merely a harbor" but part of something far older and larger. Their final journal entry ends before a planned inland expedition, with no further entries following. Their fate is unknown.
 
-**Key scenes:** 0102, 0201, 0202, 0204, 0205, 0206  
-**Current status:** Open. The Visionary's destination in the forest is implied but not confirmed. Their journals remain the primary source of information about the island's deeper significance.  
-**Likely future direction:** The stone circle in the deep forest (scene_0304) is probably the place the Visionary was travelling toward. Their disappearance, and what they may have found or become, remains unresolved.
+The Visionary systematically investigated the circle-and-dot marked network inland. They established study stations, took careful rubbings, created detailed maps, kept dated field notes, and documented their discoveries across multiple visits over at least two seasons. The player has now found the locations where the Visionary worked and can examine the evidence of their investigation. The Visionary reached a final marked site, where they carved their date and initials into stone. Beyond that point, no further records exist.
+
+**Key scenes:** 0102, 0201, 0202, 0204, 0205, 0206, 1401, 1402, 1403  
+**Current status:** The Visionary's documented inquiry now becomes visible as an active investigation, not just historical rumor. The player has reached the furthest known point of the Visionary's evidence-trail. The investigation was methodical, grounded, and progressive. What happened after the Visionary reached the final marked site remains unknown. No explanation of the symbol network or its builders has been found.  
+**Likely future direction:** The inland line continues beyond the Visionary's last documented mark. The player may follow it further, discovering whether it leads to additional sites, ancient structures, or other evidence. The Visionary's fate — whether they stopped, turned back, moved forward, or encountered something that ended their documentation — remains unresolved.
 
 ---
 

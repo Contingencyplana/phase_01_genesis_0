@@ -2,7 +2,7 @@
 
 ## Scope
 
-Current playable Harbor Island, Brinehook Island, Lantern Key, Saint Elmo's Rest, civic-cycle scenes (Tidemarket, Ledger House, Narrowwater Crossing, Old Mooring Stone), and the Deep Roads arcs Expedition Base, Inland Routes, and Symbol Network.
+Current playable Harbor Island, Brinehook Island, Lantern Key, Saint Elmo's Rest, civic-cycle scenes (Tidemarket, Ledger House, Narrowwater Crossing, Old Mooring Stone), and the Deep Roads arcs Expedition Base, Inland Routes, Symbol Network, and Visionary Trace.
 
 ## Format
 
@@ -481,4 +481,23 @@ Links: 1303, 1101
 **scene_1303** — Marked Ground  
 Location: Eastern Shelf / Second Marked Platform  
 Purpose: Second inland mark found in deliberate spacing from the first; confirms the symbol marks a line, not a point, and that the line continues inland — setting up the Visionary trace arc without yet entering it.  
-Links: 1302, 1203
+Links: 1401, 1302, 1203
+
+---
+
+## Visionary Trace Scenes (1401-1403)
+
+**scene_1401** — The Inland Station  
+Location: Inland Ridge Path / Cleared Survey Ground  
+Purpose: Discovery scene where the player finds grounded evidence of the Visionary's systematic investigation: a deliberate study platform, charcoal rubbings, preserved paper fragments with handwriting matching the Harbor Island journals, and notes documenting specific marks and measurements.  
+Links: 1402, 1303
+
+**scene_1402** — The Visionary's Field Notes  
+Location: Inland Ridge Path / Study Station Archive  
+Purpose: Recognition scene where the player examines maps and dated field entries showing the Visionary methodically documented the same symbol network the player is now discovering; entries trace the exact path the player is following; the final dated entry indicates the investigation was moving forward along the inland continuation.  
+Links: 1403, 1401
+
+**scene_1403** — Where the Trail Ends  
+Location: Inland Ridge Path / Final Marked Site  
+Purpose: Threshold scene where the player reaches the final circle-and-dot mark the Visionary documented, with the Visionary's date and initials carved into stone; the Visionary's evidence stops here; the inland line continues beyond, but no further records exist; the inquiry is inherited, unresolved.  
+Links: 1402, 1401
