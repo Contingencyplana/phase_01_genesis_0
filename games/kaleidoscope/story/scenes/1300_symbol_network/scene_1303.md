@@ -16,7 +16,7 @@ Another circle-and-dot mark, cut into the stone at the platform's edge.
 
 This one faces outward. It is oriented toward the interior, not toward the coast at the player's back.
 
-The spacing between this mark and the first is not random. A road's distance, measured at walking pace, matches a unit in the older survey notation — the same unit used to establish relay shelters on continuous routes.
+The spacing between this mark and the first is not random. The distance between them, measured at roughly a day's march, matches a unit in the older survey notation — the same unit once used to establish relay shelters on continuous routes.
 
 Someone made these marks to be found in sequence.
 

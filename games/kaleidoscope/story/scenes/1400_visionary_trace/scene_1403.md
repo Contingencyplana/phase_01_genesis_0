@@ -44,5 +44,5 @@ What comes next remains to be discovered.
 
 ## Choices
 
-- Study the date and initials more closely → scene_1402
+- Study the date and initials more closely → scene_1404
 - Return to the study station → scene_1401

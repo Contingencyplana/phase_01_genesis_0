@@ -485,7 +485,7 @@ Links: 1401, 1302, 1203
 
 ---
 
-## Visionary Trace Scenes (1401-1403)
+## Visionary Trace Scenes (1401-1404)
 
 **scene_1401** — The Inland Station  
 Location: Inland Ridge Path / Cleared Survey Ground  
@@ -500,4 +500,9 @@ Links: 1403, 1401
 **scene_1403** — Where the Trail Ends  
 Location: Inland Ridge Path / Final Marked Site  
 Purpose: Threshold scene where the player reaches the final circle-and-dot mark the Visionary documented, with the Visionary's date and initials carved into stone; the Visionary's evidence stops here; the inland line continues beyond, but no further records exist; the inquiry is inherited, unresolved.  
-Links: 1402, 1401
+Links: 1404, 1401
+
+**scene_1404** — Close Reading at the Final Mark  
+Location: Inland Ridge Path / Final Marked Site  
+Purpose: Close-reading scene where scrutiny of the carved date and initials shows the Visionary reached the outcrop later than the surviving field notes suggest; the inscription confirms presence and delay without explaining what happened next.  
+Links: 1402, 1403
