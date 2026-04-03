@@ -22,9 +22,9 @@ An unnamed scholar visited Harbor Island at an unknown point in the past. They l
 **What is established:**  
 A simple symbol — a circle enclosing a single dot — appears repeatedly across Harbor Island. It is found in the Visionary's journals and library shelves, scratched into the old forest signpost, carved into a stone in the soil of the forest path, and cut deeply into the central slab of the stone circle. The same symbol appears on the stone marker in the Waypoint dream. A faint, heavily eroded version is present on a weathered marker on Brinehook's lookout rise, another worn instance appears on an older foundation stone beneath Lantern Key's tower works, and a faint salt-worn mark appears on an old resting stone at Saint Elmo's Rest. No character has yet explained its origin or meaning within the story. At the Old Mooring Stone on Tidemarket's older waterfront margin (scene_1001), a worn marking predates current quay works; the player does not recognize it as the circle-and-dot from the library or forest. Whether the two markings are related remains unresolved.
 
-**Key scenes:** 0204, 0205, 0206, 0301, 0302, 0304, 0407, 0507, 0607, 9001, 9201 (see also 1001 — distinct marking of uncertain relation)  
-**Current status:** Active and recurring across multiple inhabited islands. The symbol has been encountered by the player in several physical sites plus dream scenes (Waypoint and the milestone priestess dream).  
-**Likely future direction:** The symbol likely connects the island's stone sites to a wider network. Expanding to other islands may reveal whether the symbol appears elsewhere, and whether the Visionary found its source.
+**Key scenes:** 0204, 0205, 0206, 0301, 0302, 0304, 0407, 0507, 0607, 9001, 9201, 1301, 1302, 1303 (see also 1001 — distinct marking of uncertain relation)  
+**Current status:** Active and now confirmed inland. The symbol has been found at coastal and island-edge sites across multiple islands, and has now been encountered in inland terrain beyond the civic routes. A pattern-recognition pass (scene_1302) has assembled the known instances side by side; the symbol's consistency across unrelated sites, materials, and ages is no longer deniable as coincidence. A second inland mark (scene_1303) confirms the symbol marks a deliberate line, not scattered points.  
+**Likely future direction:** The inland line continues. Its destination, and the Visionary's relationship to it, are the next investigation pressure. The circle-and-dot thread now feeds directly into the Visionary trace arc (1400).
 
 ---
 

@@ -88,6 +88,30 @@ It no longer appears merely as an old mark in stone or record, but as part of a 
 
 ---
 
+## Deep Roads Phase — Inland Recognition
+
+With the Symbol Network arc (1300), the circle-and-dot symbol has crossed a structural threshold.
+
+For the first time, the symbol has been found in inland terrain — beyond the coastal geography where all previous appearances were located. It appeared on a stone face halfway along the eastern shelf continuation, cut with the same deliberate depth as the Harbor Island stone circle.
+
+In scene_1302, the existing archive rubbings — gathered from the forest stone circle, Brinehook's lookout marker, Lantern Key's foundation stone, and Saint Elmo's resting stone — were assembled alongside the new inland rubbing for the first time. Laid side by side, the marks are consistent across sites that share no geography, function, or construction period. The pattern is now visible as structure rather than coincidence.
+
+In scene_1303, a second inland mark was found in deliberate spacing from the first. The spacing matches a unit in the older survey notation used for relay shelters on continuous routes. The symbol does not mark a location. It marks a line. The line continues inland toward a destination not yet visible.
+
+**What this phase does not do:**
+- It does not explain the symbol's origin or meaning
+- It does not name the builders or the purpose of the network
+- It does not connect the symbol to the dream layer
+- It does not prematurely resolve any open thread
+
+**What this phase establishes:**
+- the symbol is not coastal; it covers inland terrain too
+- multiple instances assembled together confirm deliberate networked placement
+- the marks are spaced as waypoints on a continuous route, not as isolated commemorations
+- the Visionary was almost certainly following this same line
+
+---
+
 ## Relationship to Other Threads
 
 ### Visionary Mystery

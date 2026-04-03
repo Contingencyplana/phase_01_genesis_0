@@ -20,7 +20,7 @@ A route tally board fixed under the post records both branches in plain numbers.
 
 Recent carrier marks confirm regular movement on each.
 
-There is no mystery performance here.
+There is nothing theatrical here.
 
 Only hard evidence that the continuation exists as working terrain, not rumor, and that the archive contradiction was pointing to a real travel system.
 
@@ -34,5 +34,6 @@ Reachable.
 
 ## Choices
 
+- Follow the eastern shelf further inland → scene_1301
 - Trace the inland line back through the records room first → scene_1101
 - Rewalk the split and marker logic → scene_1202

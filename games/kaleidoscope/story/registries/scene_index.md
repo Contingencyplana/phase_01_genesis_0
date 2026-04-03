@@ -2,7 +2,7 @@
 
 ## Scope
 
-Current playable Harbor Island, Brinehook Island, Lantern Key, Saint Elmo's Rest, civic-cycle scenes (Tidemarket, Ledger House, Narrowwater Crossing, Old Mooring Stone), and the Deep Roads foothold arc Expedition Base.
+Current playable Harbor Island, Brinehook Island, Lantern Key, Saint Elmo's Rest, civic-cycle scenes (Tidemarket, Ledger House, Narrowwater Crossing, Old Mooring Stone), and the Deep Roads arcs Expedition Base, Inland Routes, and Symbol Network.
 
 ## Format
 
@@ -462,4 +462,23 @@ Links: 1203, 1201
 **scene_1203** — Convergence at the Split Marker  
 Location: Inland Route Split / Shelf Above the Storage Rise  
 Purpose: Partial-confirmation scene where route tally and branch evidence verify that inland continuation is active terrain structure, not rumor.  
-Links: 1101, 1202
+Links: 1301, 1101, 1202
+
+---
+
+## Symbol Network Scenes (1301-1303)
+
+**scene_1301** — The Inland Marker  
+Location: Eastern Shelf / Inland Stone Face  
+Purpose: First inland appearance of the circle-and-dot symbol; breaks the coastal confinement of the pattern and makes the network legible as a concept rather than a coastal curiosity.  
+Links: 1302, 1203
+
+**scene_1302** — The Rubbing Sheets  
+Location: Inland Archives / Comparison Table  
+Purpose: Pattern-recognition scene where the new inland rubbing is laid beside the older archive copies; multiple instances in parallel make the symbol's consistency across unrelated sites impossible to dismiss.  
+Links: 1303, 1101
+
+**scene_1303** — Marked Ground  
+Location: Eastern Shelf / Second Marked Platform  
+Purpose: Second inland mark found in deliberate spacing from the first; confirms the symbol marks a line, not a point, and that the line continues inland — setting up the Visionary trace arc without yet entering it.  
+Links: 1302, 1203
