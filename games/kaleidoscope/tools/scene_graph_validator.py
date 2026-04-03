@@ -19,12 +19,21 @@ class Link:
     line_number: int
 
 
+@dataclass(frozen=True)
+class MalformedChoice:
+    source_scene_id: str
+    file_path: Path
+    line_number: int
+    raw_line: str
+
+
 def find_scene_files(scenes_root: Path) -> List[Path]:
     return sorted(scenes_root.rglob("scene_*.md"))
 
 
-def extract_choices(scene_file: Path) -> List[Tuple[str, int]]:
+def extract_choices(scene_file: Path) -> Tuple[List[Tuple[str, int]], List[Tuple[int, str]]]:
     choices: List[Tuple[str, int]] = []
+    malformed: List[Tuple[int, str]] = []
     for line_number, raw_line in enumerate(scene_file.read_text(encoding="utf-8").splitlines(), start=1):
         line = raw_line.strip()
         if not line.startswith("- "):
@@ -34,14 +43,16 @@ def extract_choices(scene_file: Path) -> List[Tuple[str, int]]:
         _, target_part = line.split("\u2192", 1)
         target_match = SCENE_ID_PATTERN.search(target_part)
         if target_match is None:
+            malformed.append((line_number, line))
             continue
         choices.append((target_match.group(0), line_number))
-    return choices
+    return choices, malformed
 
 
-def build_graph(scene_files: List[Path]) -> Tuple[Dict[str, List[Path]], List[Link]]:
+def build_graph(scene_files: List[Path]) -> Tuple[Dict[str, List[Path]], List[Link], List[MalformedChoice]]:
     scene_id_to_paths: Dict[str, List[Path]] = defaultdict(list)
     links: List[Link] = []
+    malformed_choices: List[MalformedChoice] = []
 
     for scene_file in scene_files:
         scene_id = scene_file.stem
@@ -50,7 +61,8 @@ def build_graph(scene_files: List[Path]) -> Tuple[Dict[str, List[Path]], List[Li
     for scene_id, paths in scene_id_to_paths.items():
         # Record links from each file that declares this scene id.
         for path in paths:
-            for target_scene_id, line_number in extract_choices(path):
+            scene_choices, scene_malformed = extract_choices(path)
+            for target_scene_id, line_number in scene_choices:
                 links.append(
                     Link(
                         source_scene_id=scene_id,
@@ -59,8 +71,17 @@ def build_graph(scene_files: List[Path]) -> Tuple[Dict[str, List[Path]], List[Li
                         line_number=line_number,
                     )
                 )
+            for line_number, raw_line in scene_malformed:
+                malformed_choices.append(
+                    MalformedChoice(
+                        source_scene_id=scene_id,
+                        file_path=path,
+                        line_number=line_number,
+                        raw_line=raw_line,
+                    )
+                )
 
-    return dict(scene_id_to_paths), links
+    return dict(scene_id_to_paths), links, malformed_choices
 
 
 def compute_reachable(entry_scene_id: str, adjacency: Dict[str, Set[str]]) -> Set[str]:
@@ -84,13 +105,13 @@ def compute_reachable(entry_scene_id: str, adjacency: Dict[str, Set[str]]) -> Se
 
 def validate(scenes_root: Path, entry_scene_id: str) -> int:
     scene_files = find_scene_files(scenes_root)
-    scene_id_to_paths, links = build_graph(scene_files)
+    scene_id_to_paths, links, malformed_choices = build_graph(scene_files)
 
     all_scene_ids = sorted(scene_id_to_paths.keys())
     unique_scene_ids = set(all_scene_ids)
 
     duplicate_scene_ids = {
-        scene_id: sorted(paths)
+        scene_id: sorted(paths, key=lambda path: path.as_posix())
         for scene_id, paths in scene_id_to_paths.items()
         if len(paths) > 1
     }
@@ -146,6 +167,17 @@ def validate(scenes_root: Path, entry_scene_id: str) -> int:
         print("Self-links: none")
         print()
 
+    if malformed_choices:
+        print("Malformed choice lines:")
+        for item in sorted(malformed_choices, key=lambda row: (row.file_path.as_posix(), row.line_number)):
+            print(
+                f"- {item.source_scene_id} ({item.file_path}:{item.line_number}) :: {item.raw_line}"
+            )
+        print()
+    else:
+        print("Malformed choice lines: none")
+        print()
+
     if entry_scene_id not in unique_scene_ids:
         print(f"Unreachable scenes: entry scene '{entry_scene_id}' was not found; treating all scenes as unreachable")
     if unreachable:
@@ -168,9 +200,16 @@ def validate(scenes_root: Path, entry_scene_id: str) -> int:
     print(f"- Broken links found: {len(missing_target_links)}")
     print(f"- Duplicate IDs found: {len(duplicate_scene_ids)}")
     print(f"- Self-links found: {len(self_links)}")
+    print(f"- Malformed choice lines found: {len(malformed_choices)}")
     print(f"- Unreachable scenes found: {len(unreachable)}")
 
-    has_errors = bool(missing_target_links or duplicate_scene_ids or self_links or unreachable)
+    has_errors = bool(
+        missing_target_links
+        or duplicate_scene_ids
+        or self_links
+        or malformed_choices
+        or unreachable
+    )
     return 1 if has_errors else 0
 
 
